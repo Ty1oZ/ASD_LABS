@@ -1,0 +1,10 @@
+﻿  sorting.cpp
+C:\Users\Arseny\source\repos\С++\sorting\InsertionSort\InsertionSort\sorting.cpp(20,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Arseny\source\repos\С++\sorting\InsertionSort\InsertionSort\sorting.cpp(43,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Arseny\source\repos\С++\sorting\InsertionSort\InsertionSort\sorting.cpp(73,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Arseny\source\repos\С++\sorting\InsertionSort\InsertionSort\sorting.cpp(104,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Arseny\source\repos\С++\sorting\InsertionSort\InsertionSort\sorting.cpp(142,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Arseny\source\repos\С++\sorting\InsertionSort\InsertionSort\sorting.cpp(165,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Arseny\source\repos\С++\sorting\InsertionSort\InsertionSort\sorting.cpp(235,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Arseny\source\repos\С++\sorting\InsertionSort\InsertionSort\sorting.cpp(304,31): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  InsertionSort.vcxproj -> C:\Users\Arseny\source\repos\С++\sorting\InsertionSort\x64\Debug\InsertionSort.exe
